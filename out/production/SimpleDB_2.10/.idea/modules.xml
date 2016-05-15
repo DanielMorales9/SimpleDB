@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SimpleDB_2.10.iml" filepath="$PROJECT_DIR$/SimpleDB_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentClient/studentClient.iml" filepath="$PROJECT_DIR$/studentClient/studentClient.iml" />
+    </modules>
+  </component>
+</project>
